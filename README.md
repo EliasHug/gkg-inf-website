@@ -1,10 +1,11 @@
 # Titel Webseite
 
 Kurzbeschreibung Webseite. Was ist der Inhalt?
+Bei der Webseite handelt es sich um eine Webseite für das Schwimmbad Joggeli. Darin werden die Angebote des Schwimmbades vorgestellt, sowie die Öffnungszeiten und Eintrittspreise.
 
 ## Projektplan
 
-Detaillierte Beschreibung der geplanten Funktionalität.
+Geplant war zunächst eigentlich nur zwei Unterseiten für die Webseite zu erstellen: Eine Seite mit den Angeboten und eine mit dem Impressum. Die Bilder für die Webseite wollte ich eigentlich selber aufnehmen.
 
 ### Hauptseite
 
@@ -26,15 +27,17 @@ Zeitplan mit mindestens wöchentlichen Meilensteinen. Wann setzt wer etwas um?
 
 | Deadline | Name | Beschreibung |
 | --- | --- | --- |
-| 01.01.2021 | Vorname Name | Das wird gemacht |
-| 02.01.2021 | Vorname Name | Das wird gemacht |
-| 03.01.2021 | Vorname Name | Das wird gemacht |
-| 04.01.2021 | Vorname Name | Das wird gemacht |
-| 05.01.2021 | Vorname Name | Das wird gemacht |
+| 18.05.2021 | Elias Hug | Starseite fertigstellen |
+| 21.05.2021 | Elias Hug | Unterseiten für die Seite möglichst fertigstellen |
+| 26.05.2021 | Elias Hug | Bilder in die Seite mit einbauen |
+| 30.05.2021 | Elias Hug | Beenden der Webseite und Dokumentation |
 
 ## Umsetzung
-
-Detaillierte Beschreibung der umgesetzten Webseite.
+Hauptseite: Kurze Begrüssung, Zusammenfassung der Angebote, Wassertemperaturen
+zweite Seite: Detaillierte Beschreibung aller Angebote des Schwimmbades
+dritte Seite. Aukunft über die Öffnungszeiten
+vierte Seite: Auskunft über die Eintritspreise
+fünfte Seite: Impresseum mit Kontaktinformationen
 
 ### Hauptseite
 
@@ -53,6 +56,7 @@ usw...
 ## Zusammenfassung
 
 Zusammenfassung mit Vergleich zwischen Planung und Umsetzung. Was hat geklappt und was nicht? Konnte der Zeitplan eingehalten werden? Konnten die Skizzen umgesetzt werden?
+Letztendlich wurden es vier Unterseiten und nicht zwei, wie zunächst geplant. Die Fotos konnte ich selbst nicht machen, deshalb habe ich sie aus dem Internet genommen. Der Zeitplan konnte grösstenteils nicht genau eingehalten werden und vieles habe ich erst später erledigt, als vorgesehen.
 
 ---
 
